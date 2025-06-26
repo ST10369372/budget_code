@@ -1,5 +1,7 @@
-# budget_code
-# BudgetEase – Android Budget Tracking App
+Github: https://github.com/ST10369372/budget_code.git
+Youtube:  https://www.youtube.com/shorts/33wKvL_6MQY?si=xk0kBLQAJMxbKnf9
+
+# budget_code – Android Budget Tracking App
 
 ## 💡 Overview
 
